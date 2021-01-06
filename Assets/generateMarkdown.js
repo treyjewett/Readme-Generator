@@ -34,17 +34,17 @@ function generateMarkdown(data) {
 
   ${data.test}
 
-  ## License: ${data.license[0]}
+  ## License: ![badge]{https://img.shields.io/static/v1?label=license&message=${data.license}&color=blue}
 
-  This project is using ${data.license[1]}. For more information, click the badge.
+  This project is using ${data.license}. For more information, click the badge.
 
   ## Questions:
 
   ### Please contact me if you have any questions:
 
-  ${data.github}
+  Find me on Github: http://www.github.com/${data.github}
 
-  ${data.email}
+  My Email is: ${data.email}
 `;
 }
 
