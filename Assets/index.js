@@ -22,17 +22,17 @@ const questions = () =>
         {
             type: 'input',
             name: 'instructions',
-            message: 'Give instuctions for installing the program here: '
+            message: 'Are there installation requirements in order to run the application?'
         },
         {
             type: 'input',
             name: 'usage',
-            message: 'What information is needed in order to utilize the project?'
+            message: 'How is this application used?'
         },
         {
             type: 'input',
             name: 'contribution',
-            message: 'List contribution guidelines on your project here: '
+            message: 'List contributors here: '
         },
         {
             type: 'input',

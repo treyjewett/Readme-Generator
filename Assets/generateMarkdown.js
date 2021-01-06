@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `
 
-  ${data.license[0]}
+  ![badge](https://img.shields.io/static/v1?label=license&message=${data.license}&color=blue)
   
   # ${data.title}
 
@@ -34,7 +34,7 @@ function generateMarkdown(data) {
 
   ${data.test}
 
-  ## License: ![badge](https://img.shields.io/static/v1?label=license&message=${data.license}&color=blue)
+  ## License:
 
   This project is using ${data.license}.
 
