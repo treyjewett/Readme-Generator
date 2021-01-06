@@ -35,4 +35,4 @@ This is what the prompts will look like to the user:
 
 Here is an example of a generated README after all prompts have been answered:
 
-<img src="Assets\images\Readme-example.png" alt="Example of generated README">
+<img src="Assets\Images\Readme-example.png" alt="Example of generated README">
