@@ -5,13 +5,6 @@
 This application provides a professional README using node.
 The user simply answers the questions provided and a README file is generated based on the responses provided.
 
-## The Applicaion
-
-<p align="center">
-<img src="assets\images\Node-Example.png" alt="Example of Node Prompts">
-<img src="assets\images\Readme-example.png" alt="Example of generated README">
-</p>
-
 ## Code Utilized
 
 This application was made using JavaScript.
@@ -27,3 +20,17 @@ When "node index.js" is run:
 ## Walkthrough Video
 
 Click this link to watch a walkthrough video on how this application works:
+
+-------------------------------------------------------------------------
+
+## Examples of the Application
+
+This is what the prompts will look like to the user:
+
+<img src="assets\images\Node-Example.png" alt="Example of Node Prompts">
+
+-------------------------------------------------------------------------
+
+Here is an example of a generated README after all prompts have been answered:
+
+<img src="assets\images\Readme-example.png" alt="Example of generated README">
