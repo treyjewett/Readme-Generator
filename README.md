@@ -21,6 +21,8 @@ When "node index.js" is run:
 
 Click this link to watch a walkthrough video on how this application works:
 
+<a href="https://www.youtube.com/watch?v=NJ80_okyB2g&feature=youtu.be" target="_blank">View the README Generator walkthrough on YouTube!</a>
+
 -------------------------------------------------------------------------
 
 ## Examples of the Application
