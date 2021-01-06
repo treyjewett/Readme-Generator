@@ -34,9 +34,9 @@ function generateMarkdown(data) {
 
   ${data.test}
 
-  ## License: ![badge]{https://img.shields.io/static/v1?label=license&message=${data.license}&color=blue}
+  ## License: ![badge](https://img.shields.io/static/v1?label=license&message=${data.license}&color=blue)
 
-  This project is using ${data.license}. For more information, click the badge.
+  This project is using ${data.license}.
 
   ## Questions:
 
