@@ -29,10 +29,10 @@ Click this link to watch a walkthrough video on how this application works:
 
 This is what the prompts will look like to the user:
 
-<img src=".\assets\images\Node-Example.png" alt="Example of Node Prompts">
+<img src="Assets\Images\Node-Example.png" alt="Example of Node Prompts">
 
 -------------------------------------------------------------------------
 
 Here is an example of a generated README after all prompts have been answered:
 
-<img src=".\assets\images\Readme-example.png" alt="Example of generated README">
+<img src="Assets\images\Readme-example.png" alt="Example of generated README">
